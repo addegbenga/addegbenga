@@ -1,6 +1,6 @@
 ### Hi there, my name is Adeyemi👋
-
-**addegbenga/addegbenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+**addegbenga/addegbenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on https://qwikker.com, during the weekends i spend more time on my personal projects
 - 🌱 I’m currently learning blockchain technology 
