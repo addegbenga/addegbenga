@@ -2,7 +2,7 @@
 <!-- 
 **addegbenga/addegbenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 Frontend engineer with over 3 years of experience
+- 🌱 Frontend engineer with over 4 years of experience
 - You can also find me here on Gitlab: https://gitlab.com/addegbenga
 - 🤔 I’m looking to collaborate on anything nice
 - 💬 Ask me about Nextjs/React/Typescript
